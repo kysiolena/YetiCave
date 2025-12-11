@@ -1,6 +1,6 @@
 # Личный проект «YetiCave»
 
-- Студент: [Elena Kiseljova](https://github.com/ElenaKiseljova).
+- Студент: [kysiolena](https://github.com/kysiolena).
 - Наставник: `OnMyOwn`.
 - [Сайт с проектом](http://yeticave.tigle.zzz.com.ua)
 
